@@ -1,0 +1,10 @@
+{
+  "train": {
+    "file_name": "标题-train.json",
+    "formatting": "sharegpt"
+  },
+  "eval": {
+    "file_name": "标题-dev.json",
+    "formatting": "sharegpt"
+  }
+}
